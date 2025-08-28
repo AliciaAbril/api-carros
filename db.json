@@ -1,0 +1,74 @@
+{
+  "carros": [
+    {
+      "id": 1,
+      "nome": "Onix",
+      "marca": "Chevrolet",
+      "valor": 75000,
+      "cor": "Prata"
+    },
+    {
+      "id": 2,
+      "nome": "HB20",
+      "marca": "Hyundai",
+      "valor": 78000,
+      "cor": "Branco"
+    },
+    {
+      "id": 3,
+      "nome": "Kwid",
+      "marca": "Renault",
+      "valor": 65000,
+      "cor": "Laranja"
+    },
+    {
+      "id": 4,
+      "nome": "Mobi",
+      "marca": "Fiat",
+      "valor": 63000,
+      "cor": "Preto"
+    },
+    {
+      "id": 5,
+      "nome": "Polo",
+      "marca": "Volkswagen",
+      "valor": 85000,
+      "cor": "Cinza"
+    },
+    {
+      "id": 6,
+      "nome": "Corolla",
+      "marca": "Toyota",
+      "valor": 140000,
+      "cor": "Preto"
+    },
+    {
+      "id": 7,
+      "nome": "Civic",
+      "marca": "Honda",
+      "valor": 155000,
+      "cor": "Azul"
+    },
+    {
+      "id": 8,
+      "nome": "Argo",
+      "marca": "Fiat",
+      "valor": 81000,
+      "cor": "Vermelho"
+    },
+    {
+      "id": 9,
+      "nome": "Creta",
+      "marca": "Hyundai",
+      "valor": 120000,
+      "cor": "Prata"
+    },
+    {
+      "id": 10,
+      "nome": "T-Cross",
+      "marca": "Volkswagen",
+      "valor": 130000,
+      "cor": "Branco"
+    }
+  ]
+}
